@@ -1,0 +1,2 @@
+class ColumnOutOfBoundsException(Exception):
+    pass

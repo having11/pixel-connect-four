@@ -1,0 +1,2 @@
+class ColumnFullException(Exception):
+    pass
